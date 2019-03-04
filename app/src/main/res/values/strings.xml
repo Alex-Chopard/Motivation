@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Motivation</string>
+    <string name="hourly_earnings">Gains horaire</string>
+    <string name="start">Commencer</string>
 </resources>
